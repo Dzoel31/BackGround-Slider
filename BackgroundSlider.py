@@ -62,3 +62,7 @@ App = QApplication(sys.argv)
 Window = MainWindow()
 Window.show()
 App.exec_()
+
+#Semua yang ada disini berasal dari Buku & Internet
+#Tolong koreksinya jika ada penggunaan syntax yang kurang tepat
+#Thank You
